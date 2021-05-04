@@ -28,5 +28,9 @@ Unnecessary shortcut to play [Big Red Racing](https://en.wikipedia.org/wiki/Big_
 If you do want to use another format on the audio like ogg, you have to edit the .cue-file. You do this by open it in notepad or notepad++ and change the extension .wav to .ogg. Remember that the audio names does have to be the same in the cue-file as in the AUDIO-folder.
 <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2020/11/10/17/08/vlc-5730446_960_720.png">BRR.cue<br>
 
+## The link-file
+The link-file does only contain this:<br>
+```%COMSPEC% /C .\DOSBOX\DOSBox-x.exe  -conf ".\DOSBOX\dosbox-x.conf" -conf ".\DOSBOX\dosbox_single.conf" -noconsole -c exit```
+
 ## Licens
 Licens enligt [GPLv3](https://www.gnu.org/licenses/gpl-3.0.en.html)
