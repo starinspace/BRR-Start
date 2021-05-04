@@ -1,5 +1,5 @@
 # BRR-Start
-Unnecessary shortcut to play Big Red Racing with background music.
+Unnecessary shortcut to play [Big Red Racing](https://en.wikipedia.org/wiki/Big_Red_Racing) by [Big Red Software](https://en.wikipedia.org/wiki/Big_Red_Software) and [Domark](https://en.wikipedia.org/wiki/Square_Enix_Europe#Domark) with background music. This is only a shortcut and folders and a tutorial on where you put your files from the original game cd-rom and dosbox-x-file to get it to work instantly, nothing else.
 
 ## Works on
 * Windows 7, 8, 8.1 and 10
@@ -20,7 +20,7 @@ Unnecessary shortcut to play Big Red Racing with background music.
      - ...
      - <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> RACING
      - ...
-3. Download dosbox-x and put the dosbox-x.exe file in DOSBOX folder:
+3. Download dosbox-x and put the [dosbox-x.exe](https://github.com/joncampbell123/dosbox-x) file in DOSBOX folder:
    - <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> DOSBOX
      - dosbox-x.exe
 4. Thats it, now you can run <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2012/04/01/12/59/disk-23357_960_720.png"> Big Red Racing shortcut and it will start.
