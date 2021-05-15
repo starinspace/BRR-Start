@@ -8,21 +8,25 @@ Unnecessary shortcut to play [Big Red Racing](https://en.wikipedia.org/wiki/Big_
 
 ###
 1. Extract the audio from your original Big Red Racing cd-rom and put the tracks in the Audio folder:
-   - <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> AUDIO
-     - Track_02.wav
-     - Track_03.wav
-     - Track_04.wav
-     - ...
-     - Track_38.wav
-     - Track_39.wav
+
+<pre>
+   ┗ <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> AUDIO
+     ┣ Track_02.wav
+     ┣ Track_03.wav
+     ┣ Track_04.wav
+     ┣ ...
+     ┣ Track_38.wav
+     ┗ Track_39.wav</pre>
 2. Put all data-files from your original Big Red Racing cd-rom in the BBR folder, its important it has the RACING folder:
-   - <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> BBR
-     - ...
-     - <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> RACING
-     - ...
+<pre>
+   ┗ <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> BBR
+     ┣ ...
+     ┣ <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> RACING
+     ┗ ...</pre>
 3. Download dosbox-x and put the [dosbox-x.exe](https://github.com/joncampbell123/dosbox-x) file in DOSBOX folder:
-   - <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> DOSBOX
-     - dosbox-x.exe
+<pre>
+   ┗ <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2015/08/26/18/20/folder-908888_960_720.png"> DOSBOX
+     ┗ dosbox-x.exe</pre>
 4. Thats it, now you can run <img width="20px" height="20px" src="https://cdn.pixabay.com/photo/2012/04/01/12/59/disk-23357_960_720.png"> Big Red Racing shortcut and it will start.
 
 If you do want to use another format on the audio like ogg, you have to edit the .cue-file. You do this by open it in notepad or notepad++ and change the extension .wav to .ogg. Remember that the audio names does have to be the same in the cue-file as in the AUDIO-folder.
